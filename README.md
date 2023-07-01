@@ -1,6 +1,8 @@
 trove: Rust firmware for Keyboardio Atreus
 ==========================================
 
+**ARCHIVED** repository moved to [keebs-rs/trove](https://github.com/keebs-rs/trove)
+
 Experimental Rust firmware for the [Technomancy/Keyboardio Atreus](https://atreus.technomancy.us/).
 
 The firmware is largely based on the [arduino_keyboard](https://github.com/agausmann/atmega-usbd/blob/master/examples/arduino_keyboard.rs) example from [atmega-usbd](https://github.com/agausmann/atmega-usbd), and the [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) firmware from [Keyboardio](https://keyboard.io).
